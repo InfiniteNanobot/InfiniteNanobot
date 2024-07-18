@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   <a href="https://github.com/InfiniteNanobot"><img src="https://komarev.com/ghpvc/?username=InfiniteNanobot" alt="InfiniteNanobot" /></a>
+  <a href="https://github.com/InfiniteNanobot"><img height="20" src="https://img.shields.io/github/followers/InfiniteNanobot?label=follow&logo=github&style=flat" /></a>
+  <a href="https://github.com/InfiniteNanobot"><img height="20" src="https://img.shields.io/github/stars/InfiniteNanobot?logo=github&style=flat" /></a>
 </p>
