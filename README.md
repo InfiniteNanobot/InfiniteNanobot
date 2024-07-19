@@ -20,3 +20,11 @@ Here are some ideas to get you started:
   <a href="https://github.com/InfiniteNanobot"><img height="20" src="https://img.shields.io/github/followers/InfiniteNanobot?label=follow&logo=github&style=flat" /></a>
   <a href="https://github.com/InfiniteNanobot"><img height="20" src="https://img.shields.io/github/stars/InfiniteNanobot?logo=github&style=flat" /></a>
 </p>
+
+### Recent Activities
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=InfiniteNanobot&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" /></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=InfiniteNanobot&theme=transparent&hide_border=true" /></a>
+</p>
+
