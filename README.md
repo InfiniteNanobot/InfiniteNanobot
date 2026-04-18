@@ -28,3 +28,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=InfiniteNanobot&theme=transparent&hide_border=true" /></a>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InfiniteNanobot&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+</div>
+
