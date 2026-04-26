@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=InfiniteNanobot&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
+
 ### Recent Activities
 
 <p align="left">
