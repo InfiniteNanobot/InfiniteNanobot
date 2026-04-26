@@ -21,6 +21,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/InfiniteNanobot"><img height="20" src="https://img.shields.io/github/stars/InfiniteNanobot?logo=github&style=flat" /></a>
 </p>
 
+### GitHub Stats
+
 ### Recent Activities
 
 <p align="left">
@@ -31,4 +33,3 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=InfiniteNanobot&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
-
