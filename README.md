@@ -33,9 +33,10 @@ Here are some ideas to get you started:
 | | |
 |---:|:---|
 | **Role** | Site Reliability Engineer |
-| **Editor** | Neovim |
+| **Editor** | Neovim, VS Code |
 | **Shell** | bash |
 | **Terminal** | WezTerm |
+| **OS** | Almalinux, Android |
 <!--END_SECTION:github_profile_bio-->
 
 ### Recent Activities
