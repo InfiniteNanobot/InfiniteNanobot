@@ -15,17 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
-  <a href="https://github.com/InfiniteNanobot/InfiniteNanobot/">
-    <img src="https://komarev.com/ghpvc/?username=InfiniteNanobot" alt="InfiniteNanobot" />
-  </a>
-  <a href="https://github.com/InfiniteNanobot">
-    <img height="20" src="https://img.shields.io/github/followers/InfiniteNanobot?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://github.com/InfiniteNanobot">
-    <img height="20" src="https://img.shields.io/github/stars/InfiniteNanobot?logo=github&style=flat" />
-  </a>
-</p>
+## About Me 👋
+
+I am a **Site Reliability Engineer (SRE)** with a background in backend engineering, infrastructure, and engineering management.
+
+* 🤖 **Current Focus:** Leveraging AI agents in software development and exploring their potential
+* 📐 **Math Interests:** Arithmetic Geometry, Iwasawa Theory
+* 🎭 **Hobbies:** Reading mystery novels, immersive theater & attending stage plays
 
 ## Development Environment
 
