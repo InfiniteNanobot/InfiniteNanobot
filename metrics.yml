@@ -1,0 +1,26 @@
+name: GitHub Metrics
+on:
+  workflow_dispatch:
+  #push:
+  #  branches:
+  #    - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-26.04
+    timeout-minutes: 10
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: General
+        uses: lowlighter/metrics@latest
+        with:
+          filename: output/general-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community, repositories
+          base_indepth: yes
+          config_order: base.header, isocalendar
+          plugin_isocalendar: yes
+
