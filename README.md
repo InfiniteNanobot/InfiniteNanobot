@@ -31,7 +31,7 @@ I am a **Site Reliability Engineer (SRE)** with a background in backend engineer
 | **Role** | Site Reliability Engineer |
 | **Editor** | Neovim, Zed |
 | **Shell** | bash |
-| **Terminal** | WezTerm, Zellij  |
+| **Terminal** | WezTerm, Herdr |
 | **OS** | Almalinux, Windows |
 <!--END_SECTION:github_profile_bio-->
 
