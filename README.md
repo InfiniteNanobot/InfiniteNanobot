@@ -46,6 +46,4 @@ Some interesting statistics about my activities.
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=InfiniteNanobot&theme=nightowl" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InfiniteNanobot&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true" />
-</p>
+<img align="left" src="output/general-metrics.svg" />
