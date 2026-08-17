@@ -37,8 +37,6 @@ I am a **Site Reliability Engineer (SRE)** with a background in backend engineer
 
 ### Recent Activities
 
-### Recent Activities
-
 Some interesting statistics about my activities.
 
 <p align="left">
