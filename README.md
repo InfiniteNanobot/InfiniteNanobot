@@ -34,14 +34,3 @@ I am a **Site Reliability Engineer (SRE)** with a background in backend engineer
 | **Terminal** | WezTerm, Herdr |
 | **OS** | Almalinux, Windows |
 <!--END_SECTION:github_profile_bio-->
-
-### Recent Activities
-
-Some interesting statistics about my activities.
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=InfiniteNanobot&theme=nightowl&border_radius=8" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=InfiniteNanobot&theme=nightowl" />
-</p>
-
-<img align="left" src="output/general-metrics.svg" />
