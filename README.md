@@ -52,3 +52,11 @@ Some interesting statistics about my activities.
 ## Recent Interests
 
 ![Recently starred repositories](output/stars.svg)
+
+## Code Changes
+
+![Lines of code changed](output/lines.svg)
+
+## Repository Licenses
+
+![Repository licenses](output/licenses.svg)
