@@ -19,7 +19,7 @@ jobs:
         with:
           filename: output/developer-metrics.svg
           token: ${{ secrets.PROFILE_METRICS_TOKEN }}
-          base: ""
+          base: header, metadata
           config_timezone: Asia/Tokyo
           config_theme: github-dark
           config_display: large
@@ -29,7 +29,7 @@ jobs:
           plugin_languages_threshold: 2%
           plugin_languages_other: yes
           plugin_languages_sections: most-used
-          plugin_languages_details: percentage
+          plugin_languages_details: bytes-size, percentage
 
       - name: Isometric commit calendar
         uses: lowlighter/metrics@latest

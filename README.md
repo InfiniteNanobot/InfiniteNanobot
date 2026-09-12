@@ -37,7 +37,7 @@ I am a **Site Reliability Engineer (SRE)** with a background in backend engineer
 
 ## Engineering Activity
 
-Some interesting statistics about my activities.
+A compact overview of my GitHub profile and main programming languages.
 
 ![Developer metrics](output/developer-metrics.svg)
 
