@@ -36,11 +36,11 @@ jobs:
         with:
           filename: output/isocalendar.svg
           token: ${{ secrets.PROFILE_METRICS_TOKEN }}
-          base: ""
+          base: header, activity, repositories, metadata
           config_timezone: Asia/Tokyo
           config_theme: github-dark
           config_display: large
+          config_order: base.header, isocalendar
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
