@@ -45,10 +45,6 @@ Some interesting statistics about my activities.
 
 ![Isometric commit calendar](output/isocalendar.svg)
 
-## Recent Activity
-
-![Recent GitHub activity](output/activity.svg)
-
 ## Pinned Repositories
 
 ![Pinned repositories](output/repositories.svg)
