@@ -34,3 +34,9 @@ I am a **Site Reliability Engineer (SRE)** with a background in backend engineer
 | **Terminal** | WezTerm, Herdr |
 | **OS** | Almalinux, Windows |
 <!--END_SECTION:github_profile_bio-->
+
+### Recent Activities
+
+Some interesting statistics about my activities.
+
+<img align="left" src="output/general-metrics.svg" />
