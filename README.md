@@ -45,18 +45,3 @@ Some interesting statistics about my activities.
 
 ![Isometric commit calendar](output/isocalendar.svg)
 
-## Pinned Repositories
-
-![Pinned repositories](output/repositories.svg)
-
-## Recent Interests
-
-![Recently starred repositories](output/stars.svg)
-
-## Code Changes
-
-![Lines of code changed](output/lines.svg)
-
-## Repository Licenses
-
-![Repository licenses](output/licenses.svg)
