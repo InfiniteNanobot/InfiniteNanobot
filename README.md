@@ -39,16 +39,16 @@ I am a **Site Reliability Engineer (SRE)** with a background in backend engineer
 
 Some interesting statistics about my activities.
 
-<img src="output/developer-metrics.svg" alt="Developer metrics" />
+![Developer metrics](output/developer-metrics.svg)
 
 ## Contribution Calendar
 
-<img src="output/isocalendar.svg" alt="Isometric commit calendar" />
+![Isometric commit calendar](output/isocalendar.svg)
 
 ## GitHub Skyline
 
-<img src="output/skyline.svg" alt="GitHub Skyline" />
+![GitHub Skyline](output/skyline.svg)
 
 ## GitHub Achievements
 
-<img src="output/achievements.svg" alt="GitHub achievements" />
+![GitHub achievements](output/achievements.svg)
