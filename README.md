@@ -44,11 +44,3 @@ Some interesting statistics about my activities.
 ## Contribution Calendar
 
 ![Isometric commit calendar](output/isocalendar.svg)
-
-## GitHub Skyline
-
-![GitHub Skyline](output/skyline.svg)
-
-## GitHub Achievements
-
-![GitHub achievements](output/achievements.svg)
