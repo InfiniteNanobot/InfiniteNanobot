@@ -35,8 +35,20 @@ I am a **Site Reliability Engineer (SRE)** with a background in backend engineer
 | **OS** | Almalinux, Windows |
 <!--END_SECTION:github_profile_bio-->
 
-### Recent Activities
+## Engineering Activity
 
 Some interesting statistics about my activities.
 
-<img align="left" src="output/general-metrics.svg" />
+<img src="output/developer-metrics.svg" alt="Developer metrics" />
+
+## Contribution Calendar
+
+<img src="output/isocalendar.svg" alt="Isometric commit calendar" />
+
+## GitHub Skyline
+
+<img src="output/skyline.svg" alt="GitHub Skyline" />
+
+## GitHub Achievements
+
+<img src="output/achievements.svg" alt="GitHub achievements" />
