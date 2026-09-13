@@ -1,40 +1,48 @@
 <div align="center">
 
-# Hi there, I'm InfiniteNanobot 👋
+# Hi, I'm InfiniteNanobot 👋
 ### Site Reliability Engineer | Infrastructure & Backend | AI Agent Explorer
 
 [![GitHub followers](https://img.shields.io/github/followers/InfiniteNanobot?label=Followers&style=flat-square&color=2ea44f)](https://github.com/InfiniteNanobot)
 
 <p align="center">
-  インフラ・信頼性エンジニアリング、バックエンド開発、そして AI エージェントの活用を探求しています。<br>
-  OSS 活動や技術ディスカッション、コミュニティでの交流を歓迎しています！
+  インフラ・信頼性エンジニアリング、バックエンド開発、AIエージェントの活用を探求しています。<br>
+  OSS活動や技術に関するディスカッション、コミュニティでの交流を歓迎しています！
+</p>
+
+<p align="center">
+  I explore infrastructure and reliability engineering, backend development, and the practical use of AI agents.<br>
+  I welcome open-source collaboration, technical discussions, and conversations with the community.
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me / 自己紹介
 
-I am a **Site Reliability Engineer (SRE)** with a strong background in backend engineering, cloud infrastructure, and engineering management.  
-Passionate about building resilient systems, developer platforms, and exploring the intersection of software engineering and emerging AI tooling.
+I am a **Site Reliability Engineer (SRE)** with a strong background in backend engineering, cloud infrastructure, and engineering management. I am passionate about building resilient systems and developer platforms, and about exploring the intersection of software engineering and emerging AI tools.
 
-* 🤖 **Current Focus:** Leveraging AI coding agents in software workflows & enhancing engineering productivity.
-* 📐 **Academic Interests:** Arithmetic Geometry (数論幾何学), Iwasawa Theory (岩澤理論).
-* 🎭 **Beyond Code:** Mystery novels, immersive theater, and stage plays.
+**サイトリライアビリティエンジニア（SRE）**として、バックエンド開発、クラウドインフラ、エンジニアリングマネジメントに取り組んできました。堅牢なシステムや開発者向けプラットフォームの構築、ソフトウェアエンジニアリングと新しいAIツールの接点を探求することに関心があります。
 
----
-
-### 🤝 Connect & Community
-
-I'm always open to connecting with fellow engineers, collaborating on open-source projects, or discussing new technologies!
-
-* 💬 **Let's talk about:** SRE best practices, Cloud / IaC, AI Agents in DevOps, or modern dev tools.
-* 🌐 **Connect with me:** Feel free to open an issue, start a discussion, or reach out on GitHub!
+* 🤖 **Current Focus / 現在の関心:** Using AI coding agents in software development workflows and improving engineering productivity.<br>ソフトウェア開発のワークフローにAIコーディングエージェントを取り入れ、エンジニアリングの生産性を高めること。
+* 📐 **Academic Interests / 学術的な関心:** Arithmetic Geometry and Iwasawa Theory.<br>数論幾何学、岩澤理論。
+* 🎭 **Beyond Code / コード以外の関心:** Mystery novels, immersive theater, and stage plays.<br>ミステリー小説、イマーシブシアター、舞台演劇。
 
 ---
 
-### 🛠️ Tech Stack & Toolbox
+### 🤝 Connect & Community / つながり・コミュニティ
+
+I'm always happy to connect with fellow engineers, collaborate on open-source projects, and discuss new technologies.
+
+エンジニアの皆さんとの交流、オープンソースプロジェクトでの協働、新しい技術についての意見交換を歓迎しています。
+
+* 💬 **Let's talk about / 話したいテーマ:** SRE best practices, cloud infrastructure and IaC, AI agents in DevOps, and modern development tools.<br>SREのベストプラクティス、クラウドインフラとIaC、DevOpsにおけるAIエージェント、最新の開発ツール。
+* 🌐 **Connect with me / 連絡方法:** Feel free to open an issue, start a discussion, or reach out to me on GitHub.<br>GitHubでIssueを作成する、Discussionを始める、または気軽にメッセージを送ってください。
+
+---
+
+### 🛠️ Tech Stack & Toolbox / 技術スタック・ツール
 
 | Category | Technologies |
 |:---|:---|
@@ -45,7 +53,7 @@ I'm always open to connecting with fellow engineers, collaborating on open-sourc
 
 ---
 
-### 💻 Development Environment
+### 💻 Development Environment / 開発環境
 
 <!--START_SECTION:github_profile_bio-->
 | Item | Details |
@@ -59,7 +67,7 @@ I'm always open to connecting with fellow engineers, collaborating on open-sourc
 
 ---
 
-### 📊 Engineering Activity & Metrics
+### 📊 Engineering Activity & Metrics / エンジニアリング活動・指標
 
 <div align="center">
 
