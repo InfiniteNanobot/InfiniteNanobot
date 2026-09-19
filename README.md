@@ -62,6 +62,7 @@ I'm always happy to connect with fellow engineers, collaborate on open-source pr
 | **Editor** | Neovim, Zed |
 | **Shell** | Bash |
 | **Terminal** | WezTerm, Herdr |
+| **AI Agents** | Pi Coding Agent, Hermes Agent |
 | **OS** | AlmaLinux, Windows |
 <!--END_SECTION:github_profile_bio-->
 
