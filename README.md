@@ -23,7 +23,7 @@
 
 I am a Site Reliability Engineer (SRE) with a strong background in backend engineering, cloud infrastructure, and engineering management. I am passionate about building resilient systems and developer platforms, and about exploring the intersection of software engineering and emerging AI tools.
 
-サイトリライアビリティエンジニア（SRE）として、バックエンド開発、クラウドインフラ、エンジニアリングマネジメントに取り組んできました。堅牢なシステムや開発者向けプラットフォームの構築、ソフトウェアエンジニアリングと新しいAIツールの接点を探求することに関心があります。
+Site Reliability Engineer（SRE）として、バックエンド開発、クラウドインフラ、エンジニアリングマネジメントに取り組んできました。堅牢なシステムや開発者向けプラットフォームの構築、ソフトウェアエンジニアリングと新しいAIツールの接点を探求することに関心があります。
 
 * 🤖 **Current Focus / 現在の関心:** Using AI coding agents in software development workflows and improving engineering productivity.<br>ソフトウェア開発のワークフローにAIコーディングエージェントを取り入れ、エンジニアリングの生産性を高めること。
 * 📐 **Academic Interests / 学術的な関心:** Arithmetic Geometry and Iwasawa Theory.<br>数論幾何学、岩澤理論。
