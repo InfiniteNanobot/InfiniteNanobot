@@ -4,6 +4,7 @@
 ### Site Reliability Engineer | Infrastructure & Backend | AI Agent Explorer
 
 [![GitHub followers](https://img.shields.io/github/followers/InfiniteNanobot?label=Followers&style=flat-square&color=2ea44f)](https://github.com/InfiniteNanobot)
+[![GitLab](https://img.shields.io/badge/GitLab-Main%20Git%20Repository-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/InfiniteNanobot)
 
 <p align="center">
   インフラ・信頼性エンジニアリング、バックエンド開発、AIエージェントの活用を探求しています。<br>
@@ -38,7 +39,7 @@ I'm always happy to connect with fellow engineers, collaborate on open-source pr
 エンジニアの皆さんとの交流、オープンソースプロジェクトでの協働、新しい技術についての意見交換を歓迎しています。
 
 * 💬 **Let's talk about / 話したいテーマ:** SRE best practices, cloud infrastructure and IaC, AI agents in DevOps, and modern development tools.<br>SREのベストプラクティス、クラウドインフラとIaC、DevOpsにおけるAIエージェント、最新の開発ツール。
-* 🌐 **Connect with me / 連絡方法:** Feel free to open an issue, start a discussion, or reach out to me on GitHub.<br>GitHubでIssueを作成する、Discussionを始める、または気軽にメッセージを送ってください。
+* 🌐 **Connect with me / 連絡方法:** Feel free to reach out to me on GitHub or [GitLab](https://gitlab.com/InfiniteNanobot).<br>GitHubまたは[GitLab](https://gitlab.com/InfiniteNanobot)から気軽にメッセージを送ってください。
 
 ---
 
