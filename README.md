@@ -39,7 +39,7 @@ I'm always happy to connect with fellow engineers, collaborate on open-source pr
 エンジニアの皆さんとの交流、オープンソースプロジェクトでの協働、新しい技術についての意見交換を歓迎しています。
 
 * 💬 **Let's talk about / 話したいテーマ:** SRE best practices, cloud infrastructure and IaC, AI agents in DevOps, and modern development tools.<br>SREのベストプラクティス、クラウドインフラとIaC、DevOpsにおけるAIエージェント、最新の開発ツール。
-* 🌐 **Connect with me / 連絡方法:** Feel free to reach out to me on GitHub or [GitLab](https://gitlab.com/InfiniteNanobot).<br>GitHubまたは[GitLab](https://gitlab.com/InfiniteNanobot)から気軽にメッセージを送ってください。
+* 🦊 **GitLab:** Main Git repository / メインのGitリポジトリ: [InfiniteNanobot](https://gitlab.com/InfiniteNanobot)
 
 ---
 
